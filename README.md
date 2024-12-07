@@ -1,6 +1,4 @@
-C# Eğitim Kapmpı çerçevesinde gerçekleçmiş olduğumuz 
-![C# Eğitim Kampı çerçevesinde gerçekleştirmiş olduğumuz Entity Framework Methotlarını ve Linq sorgularını kullanarak basit turistik bir gezi organizasyonlarıyla ilgili istatistiksel verileri özetleyen bir windows form uygulaması gerçekleştirdik.]([https://raw.githubusercontent.com/kullaniciadi/projeadi/main/foto.png](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true))
-
+![C# Eğitim Kampı çerçevesinde gerçekleştirmiş olduğumuz Entity Framework Methotlarını ve Linq sorgularını kullanarak basit turistik bir gezi organizasyonlarıyla ilgili istatistiksel verileri özetleyen bir windows form uygulaması gerçekleştirdik.](https://raw.githubusercontent.com/kullaniciadi/projeadi/main/foto.png)
 
 
 
