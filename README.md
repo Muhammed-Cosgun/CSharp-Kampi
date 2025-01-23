@@ -10,7 +10,7 @@ Projede kullanılan teknolojiler:
 ✨LINQ sorgu
 
 
-## 🚀 Önemli Formlar ve Ekran Alıntıları:
+## 🚀 Formlar ve Ekran Alıntıları
 ✨ Login Formu
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/681e2c42db40e3fe7ea1f3c679e8a3daa48fc1cc/login.png)
 ✨ Banka Formu
