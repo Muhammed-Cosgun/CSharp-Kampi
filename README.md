@@ -56,6 +56,7 @@ C# Eğitim Kampı çerçevesinde gerçekleştirmiş olduğumuz Entity Framework 
 
 
 
+
 # 🚀 C# EĞİTİM KAMPI PROJELERİ
 Bu repo, Murat Yücedağ'ın C# eğitim kampı süresince tamamladğım 10 projeyi içermektedir. Aşağıda her projeye dair teknik detaylar mevcuttur:
 
