@@ -1,11 +1,14 @@
 ## 🚀 FINANCIAL CRM PROJESI
 Bu projede windows form ile finansal süreçlerin yönetilebileceği bir sistem yaptım. 
 Projede kullanılan teknolojiler:
+
+
 ✨C# Windows Form
 ✨Entity Framework
 ✨Db First
 ✨MsSQL
 ✨LINQ sorgu
+
 
 ## 🚀 Önemli Formlar ve Ekran Alıntıları:
 ✨ Login Formu
