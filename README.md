@@ -17,19 +17,33 @@ Projede kullanılan teknolojiler:
 ✨ Login Formu
 
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/681e2c42db40e3fe7ea1f3c679e8a3daa48fc1cc/login.png)
+
 ✨ Banka Formu
+
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/681e2c42db40e3fe7ea1f3c679e8a3daa48fc1cc/banka%20formu.png)
+
 ✨ Faturalar Formu
+
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/681e2c42db40e3fe7ea1f3c679e8a3daa48fc1cc/faturalar%20formu.png)
+
 ✨ Kategoriler Formu
+
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/681e2c42db40e3fe7ea1f3c679e8a3daa48fc1cc/kategoriler.png)
+
 ✨ Giderler Formu
+
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/681e2c42db40e3fe7ea1f3c679e8a3daa48fc1cc/giderler.png)
+
 ✨ Banka Hareketleri Formu
+
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/681e2c42db40e3fe7ea1f3c679e8a3daa48fc1cc/banka%20i%C5%9Flemleri%20formu.png)
+
 ✨ Dashboard Formu
+
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/681e2c42db40e3fe7ea1f3c679e8a3daa48fc1cc/dashboard.png)
+
 ✨ Ayarlar Formu
+
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/657c5351dbc478b55293599f23c9dd8fe7ae4d85/ayarlar%20formu.png)
 
 
