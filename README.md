@@ -1,3 +1,33 @@
+## 🚀 FINANCIAL CRM PROJESI
+Bu projede windows form ile finansal süreçlerin yönetilebileceği bir sistem yaptım. 
+Projede kullanılan teknolojiler:
+✨C# Windows Form
+✨Entity Framework
+✨Db First
+✨MsSQL
+✨LINQ sorgu
+
+## 🚀 Önemli Formlar ve Ekran Alıntıları:
+✨ Login Formu
+![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
+✨ Banka Formu
+![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
+✨ Faturalar Formu
+![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
+✨ Kategoriler Formu
+![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
+✨ Giderler Formu
+![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
+✨ Banka Hareketleri Formu
+![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
+✨ Dashboard Formu
+![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
+✨ Ayarlar Formu
+![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
+
+
+
+
 ## 🚀 ENTITY FRAMEWORK İLE TURİZM PROJESİ
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
 
