@@ -23,7 +23,7 @@ Projede kullanılan teknolojiler:
 ✨ Dashboard Formu
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
 ✨ Ayarlar Formu
-![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/main/resim_2024-12-07_010636387.png?raw=true)
+![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/657c5351dbc478b55293599f23c9dd8fe7ae4d85/ayarlar%20formu.png)
 
 
 
