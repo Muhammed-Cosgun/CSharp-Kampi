@@ -2,16 +2,20 @@
 Bu projede windows form ile finansal süreçlerin yönetilebileceği bir sistem yaptım. 
 Projede kullanılan teknolojiler:
 
-
 ✨C# Windows Form
+
 ✨Entity Framework
+
 ✨Db First
+
 ✨MsSQL
+
 ✨LINQ sorgu
 
 
 ## 🚀 Formlar ve Ekran Alıntıları
 ✨ Login Formu
+
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/681e2c42db40e3fe7ea1f3c679e8a3daa48fc1cc/login.png)
 ✨ Banka Formu
 ![Uygulama Görüntüsü](https://github.com/Muhammed-Cosgun/CSharp-Kampi/blob/681e2c42db40e3fe7ea1f3c679e8a3daa48fc1cc/banka%20formu.png)
